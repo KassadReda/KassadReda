@@ -2,7 +2,7 @@
 
 My name is Reda, Currently I am a student at ENIB.
 
-- 🔭 I’m currently working on some HIM projects using PyQt5
+- 🔭 I’m currently working on some HIM projects using PyQt5.
 - 🌱 I’m currently learning Vue.Js, Flutter and Node.Js
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with Node.Js
